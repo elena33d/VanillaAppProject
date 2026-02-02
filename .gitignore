@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+dist/
+docs/
+Vanilla-App/
+src/img/*.jpg
+node_modules/
+.DS_Store
+dist/
+docs/
+Vanilla-App/
+src/img/*.jpg
+assets/
